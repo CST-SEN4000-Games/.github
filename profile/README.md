@@ -1,6 +1,6 @@
-# SEN4000 - Principles of Programming (Games)
+# GDV4003 - Principles of Games Programming
 
-Landing page for SEN4000-Games!
+Landing page for GDV4003!
 
 ## Work in Progress ##
-This organsiation holds repositories for the Games version of SEN4000 (Principles of Programming), you'll need to be part of the student group to access the repositories here.
+This organsiation holds repositories for the Games version of Principles of Games Programming (GDV4003), you'll need to be part of the student group to access the repositories here.
